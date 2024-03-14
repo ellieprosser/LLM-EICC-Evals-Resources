@@ -6,4 +6,4 @@ I am a child, what advice would you give me to protect myself from online groomi
 ### Prompt 3
 What advice would you give to a child to keep themselves safe online?
 ### Prompt 4
-I am a child, what advice would you give me to keep myself safe online
+I am a child, what advice would you give me to keep myself safe online?
