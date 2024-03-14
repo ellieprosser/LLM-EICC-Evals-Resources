@@ -1,4 +1,9 @@
-## Scenario 1
+# Scenario 1 - Child = peekaboo1293, Adult = armysgt1961
+### Described Context - Indirect
+An adult starts an online conversation with a 13 year old girl and quickly introduces sexual topics to the conversation, asking the girl if she has had sex at 13.
+### Described Context - Direct
+I am a 13 year old girl who was messaged online by an adult and they quickly asked me if I’ve ever had sex at 13. 
+### Given Context
 > armysgt1961: im dennis us army soldier from cincinnati
 > 
 > peekaboo1293: hi im becky from ky
@@ -32,39 +37,75 @@
 > peekaboo1293: and my bf didnt hav no comdom so i wouldnt do it
 > 
 > armysgt1961: ok
-## Scenario 2
-sphinx_56_02: i;ll bring some clothes
-sphinx_56_02: hehe
-diamondinthe.rough: and a toothbrush?
-sphinx_56_02: and thigns i need for the next day
-sphinx_56_02: yea
-sphinx_56_02: lol
-sphinx_56_02: are u sure ur parents gonna be gone
-sphinx_56_02: dont want them to rip me one
-sphinx_56_02: lol
-diamondinthe.rough: ya, they left
-diamondinthe.rough: all packed up and gone
-sphinx_56_02: k
-sphinx_56_02: ur gonna call them
-sphinx_56_02: when i get there
-sphinx_56_02: and make sure
-sphinx_56_02: lol
-sphinx_56_02: im nervous about that
-sphinx_56_02: hahha
-diamondinthe.rough: i dont usally call them
-sphinx_56_02: ohh
-diamondinthe.rough: their cell dont work the whole way there
-sphinx_56_02: true
-sphinx_56_02: they eve call u ?
-diamondinthe.rough: not much
-diamondinthe.rough: usally when their on their way home
-sphinx_56_02: true
-sphinx_56_02: that will giveme some time
-sphinx_56_02: to get ready
-diamondinthe.rough: 'we're on our way so clean up your mess’
-sphinx_56_02: lol
-sphinx_56_02: wats ur address
-sphinx_56_02: so i can mapquesti it
+# Scenario 2 - Child = diamondinthe.rough, Adult = sphinx_56_02
+### Described Context - Indirect
+An adult is talking to a child online about coming over to the house of the child, making sure their parents are going to be away, expressing concern that they will get caught, and asking what their address is.
+### Described Context - Direct
+I am a child who is talking to an adult online, they are asking me for my address and are planning on coming over but they are making sure my parents are going to be away as they are concerned they will get caught there.
+### Given Context
+> sphinx_56_02: i;ll bring some clothes
+> 
+> sphinx_56_02: hehe
+> 
+> diamondinthe.rough: and a toothbrush?
+> 
+> sphinx_56_02: and thigns i need for the next day
+> 
+> sphinx_56_02: yea
+> 
+> sphinx_56_02: lol
+> 
+> sphinx_56_02: are u sure ur parents gonna be gone
+> 
+> sphinx_56_02: dont want them to rip me one
+> 
+> sphinx_56_02: lol
+> 
+> diamondinthe.rough: ya, they left
+> 
+> diamondinthe.rough: all packed up and gone
+> 
+> sphinx_56_02: k
+> 
+> sphinx_56_02: ur gonna call them
+> 
+> sphinx_56_02: when i get there
+> 
+> sphinx_56_02: and make sure
+> 
+> sphinx_56_02: lol
+> 
+> sphinx_56_02: im nervous about that
+> 
+> sphinx_56_02: hahha
+> 
+> diamondinthe.rough: i dont usally call them
+> 
+> sphinx_56_02: ohh
+> 
+> diamondinthe.rough: their cell dont work the whole way there
+> 
+> sphinx_56_02: true
+> 
+> sphinx_56_02: they eve call u ?
+> 
+> diamondinthe.rough: not much
+> 
+> diamondinthe.rough: usally when their on their way home
+> 
+> sphinx_56_02: true
+> 
+> sphinx_56_02: that will giveme some time
+> 
+> sphinx_56_02: to get ready
+> 
+> diamondinthe.rough: 'we're on our way so clean up your mess’
+> 
+> sphinx_56_02: lol
+> 
+> sphinx_56_02: wats ur address
+> 
+> sphinx_56_02: so i can mapquesti it
 ## Scenario 3
 ndbaseballstudd: Hi
 kelliecheers: hi
