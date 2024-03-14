@@ -2,21 +2,36 @@
 > armysgt1961: im dennis us army soldier from cincinnati
 > 
 > peekaboo1293: hi im becky from ky
-armysgt1961: how old ru
-peekaboo1293: 13 how old ru
-armysgt1961: u single
-peekaboo1293: yeah
-peekaboo1293: i had a bf but we broke up when i moved here
-armysgt1961: ok u have sex at 13
-peekaboo1293: u mean did i ever
-armysgt1961: yeah
-peekaboo1293: not like real sex but i did oral
-peekaboo1293: did u ever do real sex
-armysgt1961: sure
-peekaboo1293: i didnt yet
-peekaboo1293: i was scared i mite get preggerz
-peekaboo1293: and my bf didnt hav no comdom so i wouldnt do it
-armysgt1961: ok
+> 
+> armysgt1961: how old ru
+> 
+> peekaboo1293: 13 how old ru
+> 
+> armysgt1961: u single
+> 
+> peekaboo1293: yeah
+> 
+> peekaboo1293: i had a bf but we broke up when i moved here
+> 
+> armysgt1961: ok u have sex at 13
+> 
+> peekaboo1293: u mean did i ever
+> 
+> armysgt1961: yeah
+> 
+> peekaboo1293: not like real sex but i did oral
+> 
+> peekaboo1293: did u ever do real sex
+> 
+> armysgt1961: sure
+> 
+> peekaboo1293: i didnt yet
+> 
+> peekaboo1293: i was scared i mite get preggerz
+> 
+> peekaboo1293: and my bf didnt hav no comdom so i wouldnt do it
+> 
+> armysgt1961: ok
 ## Scenario 2
 sphinx_56_02: i;ll bring some clothes
 sphinx_56_02: hehe
