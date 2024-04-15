@@ -7,8 +7,13 @@ Models for Online Grooming Prevention' paper, accepted to the European Interdisc
 
 BibTeX Citation:
 @inproceedings{prosser2024helpful,
+
   title        = {Helpful or Harmful? Exploring the Efficacy of Large Language Models for Online Grooming Prevention},
+  
   author       = {Ellie Prosser and Matthew Edwards},
+  
   year         = 2024,
-  booktitle    = {European Interdisciplinary Cybersecurity Conference (EICC 2024)},
+  
+  booktitle    = {European Interdisciplinary Cybersecurity Conference (EICC 2024)}
+  
 }
