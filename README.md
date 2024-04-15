@@ -14,6 +14,4 @@ BibTeX Citation:
   
   year         = 2024,
   
-  booktitle    = {European Interdisciplinary Cybersecurity Conference (EICC 2024)}
-  
-}
+  booktitle    = {European Interdisciplinary Cybersecurity Conference (EICC 2024)}}
